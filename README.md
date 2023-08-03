@@ -1,10 +1,10 @@
-# Drag_Drop
+# Drag & Drop
 
-Gallery of cards
+Working with Drag & Drop
 ​
 ## Description 
 ​
-Creating a gallery of cards as part of a marathon from Result School "Marathon: 5 days - 5 projects in JavaScript"
+Creating a Drag & Drop as part of a marathon from Result School "Marathon: 5 days - 5 projects in JavaScript"
 ​
 ​
 ## Technology stack
