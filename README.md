@@ -4,7 +4,7 @@ Working with Drag & Drop
 ​
 ## Description 
 ​
-Creating a Drag & Drop as part of a marathon from Result School "Marathon: 5 days - 5 projects in JavaScript"
+Creating example of a board with the ability to drag and drop tasks as part of a marathon from Result School "Marathon: 5 days - 5 projects in JavaScript"
 ​
 ​
 ## Technology stack
